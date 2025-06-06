@@ -13,3 +13,8 @@ CDP stands for CIC Development Platform (CDP)
 > By automating each of these steps, we drastically reduce the time and manual effort required to spin up new CIC initiatives. Contributors simply supply a short project summary, and the CDP engine produces production-ready IaC artifacts, documentation, and budgeting in one go—freeing up teams to focus on business logic instead of repetitive setup tasks.  
 >
 > This “from-doc-to-deployment” pipeline boosts productivity, enforces consistent best practices, and accelerates the delivery of cloud-native solutions.
+
+---
+
+**Please review [CONTRIBUTING.md](./CONTRIBUTING.md) before submitting a pull request.**  
+It contains detailed instructions and guidelines on how you can contribute to this CDP Project.
