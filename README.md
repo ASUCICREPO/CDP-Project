@@ -16,5 +16,16 @@ CDP stands for CIC Development Platform (CDP)
 
 ---
 
-**Please review [CONTRIBUTING.md](./CONTRIBUTING.md) before submitting a pull request.**  
-It contains detailed instructions and guidelines on how you can contribute to this CDP Project.
+🤝 Contribution Guidelines
+
+We welcome your help! Please read our [Contribution Guidelines](./CONTRIBUTING.md) to learn about:
+
+* How to file issues (bugs, feature requests)
+* Branching strategy, commit message conventions
+* PR process and code review expectations
+* Testing requirements and CI workflow
+* Refer to [Contribution Guidelines](./CONTRIBUTING.md) before submitting any pull request.
+
+🛡 Code of Conduct
+
+Our community is guided by respect and inclusivity. By participating, you agree to follow our [Code of Conduct](./CODE_OF_CONDUCT.md). Any violations may result in moderation or removal from the project.
