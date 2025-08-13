@@ -12,7 +12,10 @@ CDP stands for CIC Development Platform (CDP)
 > 5. End to end starting from collecting client requirements to closure document - automated.
 > 6. For Frontend - we use Figma MCP to convert Figma Design into Reactjs frontend code.
 > 7. For generating CDK code (backend), integration and genertaing documents, deploying to aws cloudformation, pushing to github - will be using Kiro.
-> By automating each of these steps, we drastically reduce the time and manual effort required to spin up new CIC initiatives. Contributors simply supply a short project summary, and the CDP engine produces production-ready IaC artifacts, documentation, and budgeting in one go—freeing up teams to focus on business logic instead of repetitive setup tasks.  
+
+> By automating each of these steps, we drastically reduce the time and manual effort required to spin up new CIC initiatives. Contributors simply supply a short project summary, and the CDP engine produces production-ready IaC artifacts, documentation, and budgeting in one go—freeing up teams to focus on business logic instead of repetitive setup tasks.
+>
+> To understand the better workflow, please visit : CDP Workflow diagram - https://drive.google.com/file/d/1n4NxCeupqtDGOK89UzirHY_0_NXz9LxB/view?usp=sharing
 >
 > This “from-doc-to-deployment” pipeline boosts productivity, enforces consistent best practices, and accelerates the delivery of cloud-native solutions.
 
